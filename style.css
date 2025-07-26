@@ -1,0 +1,82 @@
+body{
+    background-color: #f0f4f8;
+    background: linear-gradient(to right, #83a4d4,#b6fbff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    padding: 10px;
+}
+.container{
+    text-align: center;
+    width: ;
+}
+.card-box{
+    width: 90%;
+    max-width: 756px;
+    border: 1px solid black;
+    height: auto;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #ffffffcc;
+    padding: 20px;
+    box-shadow: 5px 10px 20px rgba(17, 17, 17, 0.1);
+    margin: auto;
+}
+
+.input{
+    max-width: 65%;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 100%;
+    box-shadow: 0 5px 5px rgb(83, 82, 82);
+}
+.button{
+  padding: 5px;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 12px;
+}
+.button:hover{
+    background-color: #0056b3;
+}
+#result{
+    height: 200px;
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 30px;
+   text-align: left;
+   font-family: 'Segoe UI', sans-serif;
+   transition: 0.4s ease-in-out;
+   font-size: 18px;
+   box-shadow: 1px 4px 10px rgb(44, 42, 42);
+   line-height: 2;
+}
+@media (max-width: 768px) {
+  .input, .button {
+    margin: 5px 0;
+  }
+
+  .card-box {
+    padding: 20px;
+  }
+
+  #result {
+    font-size: 16px;
+    padding: 20px;
+    width: 88%;
+  }
+}
+
+strong {
+  font-weight: bold;
+  font-size: 25px;
+  color: black;
+  text-decoration:underline;
+}
