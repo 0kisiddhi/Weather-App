@@ -15,9 +15,6 @@ It fetches real-time weather data from the OpenWeatherMap API and displays tempe
 - JavaScript (fetch API, DOM manipulation)
 - OpenWeatherMap API
 
-## 🚀 Demo
-[Live App Link Coming Soon]
 
-## 📷 Preview
-(Add screenshot image link here)
+
 
