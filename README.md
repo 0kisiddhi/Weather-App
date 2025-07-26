@@ -18,4 +18,8 @@ It fetches real-time weather data from the OpenWeatherMap API and displays tempe
 view project
  (https://0kisiddhi.github.io/Weather-App/)
 
+image of project
+ <img width="968" height="948" alt="image" src="https://github.com/user-attachments/assets/4ace27cd-86cf-4281-8dd1-1206e00e9e73" />
+
+
 
